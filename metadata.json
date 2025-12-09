@@ -1,0 +1,7 @@
+{
+  "name": "SkillSync - Local Skill Exchange",
+  "description": "A modern platform for local skill sharing and bartering. Users can offer skills they possess and request skills they want to learn, facilitated by AI-driven matchmaking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
